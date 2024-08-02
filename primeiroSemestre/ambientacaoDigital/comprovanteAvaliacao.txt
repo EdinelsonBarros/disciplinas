@@ -1,7 +1,0 @@
-Envio bem-sucedido!
-Curso: CVCS_EAD_1973960, Ambientação Digital - Turma_005
-Avaliação: Hora de Exercitar
-
-Data de envio: 01/08/24 17:19
-Autor do envio: Edinelson Lima Barros Lima Barros CRUZ_EAD_Ciência da Computação (Bacharelado)_1A_20242
-Número de confirmação: 05ad35fed42541498c5dbb4d55ad625b

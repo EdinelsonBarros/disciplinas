@@ -24,4 +24,5 @@ Os **conjuntos** são representados por letras **maiúsculas** e os **elementos*
 
 Temos também outra forma de representar conjuntos que é o diagrama de Venn-Euler.
 
-      !(F:\programacao\graducao\graduacaoCruzeiroDoSul\diciplinas\primeiroSemestre\matematicaAplicada\unidade1\materialDidatico.jpg "Imagem de um diagrama de Venn-Euler")
+      ![Imagem de um diagrama de Venn-Euler](F:\programacao\graducao\graduacaoCruzeiroDoSul\diciplinas\primeiroSemestre\matematicaAplicada\unidade1\materialDidatico.jpg "Imagem de um diagrama de Venn-Euler")
+&ni;

@@ -70,6 +70,4 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-remote_theme: pages-themes/cayman@v0.2.0
-
 title: [Ciência Da Computação]

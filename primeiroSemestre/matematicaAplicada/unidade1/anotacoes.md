@@ -22,7 +22,76 @@ Os **conjuntos** são representados por letras **maiúsculas** e os **elementos*
 > - 
 > - *Esta é a representação dos elementos por propriedade comum.*
 
-Temos também outra forma de representar conjuntos que é o diagrama de Venn-Euler.
+Temos também outra forma de representar conjuntos que é o diagrama de Venn-Euler representado na imagem abaixo.
 
-      ![Imagem de um diagrama de Venn-Euler](F:\programacao\graducao\graduacaoCruzeiroDoSul\diciplinas\primeiroSemestre\matematicaAplicada\unidade1\materialDidatico.jpg "Imagem de um diagrama de Venn-Euler")
-&ni;
+![](diagramVenn.jpg "Imagem de um diagrama de Venn-Euler")
+
+### Relações
+
+Temos o relacionamento entre elemento e conjunto, este relacionamento de baseia no pertencimento.
+
+
+#### Representação de relacionamento de pertencimento
+> dó &isin; M
+> - 
+> - Lê-se: o elemento dó pertence ao conjunto M 
+
+> ml &notin; M
+> - 
+> - Lê-se: o elemento ml não pertence ao conjunto M, pois ml é uma unidade de medida não um nota musical 
+
+Há também o relacionamento entre os conjuntos, este relacionamento se baseia no conceito de **incluído** ou **não incluido**.
+
+![O conjunto B esta contido em A](./conjuntosinclusao.png)
+
+> B &subseteq; A
+> - 
+> - Lê-se: o conjunto B está contido no conjunto A, logo B é um subconjunto de A.
+
+> F &nsubseteq; A
+> - 
+> - Lê-se: o conjunto F não está contido no conjunto A, logo o conjunto F não é um subconjunto de A.
+
+### Operações entre conjuntos
+
+#### Igualdade
+
+A igualdade acontece quando dois conjuntos A e B, possuem os mesmo elementos reciprocamente, então neste caso todos elementos de A pertecem a B e todos os elementos de B pertecem a A.
+
+> `A = {1, 2, 3}`
+> - 
+> `B = {2, 3, 1}`
+> - 
+
+ A relação de igualdade entre A e B pode ser representada em símbolos.
+
+> A=B &#8660; (x)(x &isin; A => x &isin; B)
+> - 
+
+#### União
+
+A união de dois ou mais conjuntos se dá pelo agrupamento de seus elementos em um outro conjunto.
+
+> `A = {1, 3, 2, 7}  B = {4, 3, 8, 9}` 
+> - 
+
+Considerandos os conjuntos A e B acima a união fica da seguinte forma.
+
+> `A` &#8899; `B = {1, 3, 2, 7, 4, 8, 9}`
+> - 
+
+Tabém pode ser representado da seguinte forma:
+
+>  `A` &#8899; `B = {x|x ` &isin; `A ou x` &isin; `B }`
+> - 
+
+#### Intersecção
+
+A intersecção de dois ou mais conjuntos será um novo conjunto com os elementos que existem em ambos os conjuntos. 
+
+*O exemplo abaixo considera os conjuntos A e B anteriores.*
+
+> `A` &#8898; `B = { 3 }`
+> - 
+
+
